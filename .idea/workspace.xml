@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81538ba3-6786-4200-a0a2-5afdc3d1a149" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/12sep22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/12sep23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/18sep(19).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/18sep(20).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/18sep(21).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Black_Box_Testing_response.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Project1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/White Box Testing_explanation.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/assistant_response.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/input.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/instance/internships.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/internship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/project9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/response.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/response_1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/response_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/temp.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/user_input.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hello.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cGQJyJoRgofortzruagKDOMAet" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for .executor": "Run",
+    "Python tests.pytest for Ass.py.executor": "Run",
+    "Python tests.pytest for Ass.test_method.executor": "Run",
+    "Python tests.pytest for Hello.test_method.executor": "Run",
+    "Python tests.pytest in pythonProject2.executor": "Run",
+    "Python tests.pytest.executor": "Run",
+    "Python.Hello.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Asus/PycharmProjects/pythonProject2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.pytest for Ass.test_method">
+    <configuration name="Ass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Ass.test_method" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Asus\PycharmProjects\pythonProject2\.venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (pythonProject2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Ass.test_method&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Hello.test_method" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Hello.test_method&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Ass" />
+      <item itemvalue="Python.Hello" />
+      <item itemvalue="Python tests.pytest for Ass.test_method" />
+      <item itemvalue="Python tests.pytest for Hello.test_method" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for Hello.test_method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81538ba3-6786-4200-a0a2-5afdc3d1a149" name="Changes" comment="" />
+      <created>1707735367943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707735367943</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
